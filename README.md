@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hand Gesture Volume Controller
 
 A real-time Computer Vision desktop application built in Python that allows users to control their Windows laptop's master system volume using hand gestures captured through the built-in webcam.
@@ -128,3 +129,6 @@ python main.py
 * **Webcam Error**: Ensure no other application (Zoom, Teams, Skype, or Camera app) is using the webcam.
 * **Audio Control Warning**: Verify that Pycaw and Comtypes are installed properly (`pip install pycaw comtypes`).
 * **Hand Detection Lag**: Ensure proper lighting in the room and keep your hand clearly visible within the camera's field of view.
+=======
+# hand-gesture-volume-controller
+>>>>>>> e0697fe43a6a56fd1738c42cb9d8361ae08c1bf8
